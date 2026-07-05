@@ -1153,3 +1153,7 @@
 "section_diagnostics" = "Diagnostyka";
 "section_updates" = "Aktualizacje";
 "section_links" = "Linki";
+
+"credit_expiry_style_title" = "Styl wygasania kredytów";
+"credit_expiry_style_list" = "Lista";
+"credit_expiry_style_runway" = "Oś czasu";

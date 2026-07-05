@@ -1149,3 +1149,7 @@
 "usage_percent_suffix_used" = "usado";
 "z.ai API token not found. Set apiKey in ~/.codexbar/config.json or Z_AI_API_KEY." = "Non se atopou o token da API de z.ai. Define apiKey en ~/.codexbar/config.json ou Z_AI_API_KEY.";
 "≈ %d%% run-out risk" = "≈ %d%% de risco de esgotamento";
+
+"credit_expiry_style_title" = "Estilo de caducidade do crédito";
+"credit_expiry_style_list" = "Lista";
+"credit_expiry_style_runway" = "Liña temporal";

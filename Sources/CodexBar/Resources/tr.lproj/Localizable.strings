@@ -1151,3 +1151,7 @@
 "section_diagnostics" = "Tanılama";
 "section_updates" = "Güncellemeler";
 "section_links" = "Bağlantılar";
+
+"credit_expiry_style_title" = "Kredi son kullanma stili";
+"credit_expiry_style_list" = "Liste";
+"credit_expiry_style_runway" = "Zaman çizelgesi";

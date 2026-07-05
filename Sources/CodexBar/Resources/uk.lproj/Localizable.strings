@@ -1147,3 +1147,7 @@
 "section_diagnostics" = "Діагностика";
 "section_updates" = "Оновлення";
 "section_links" = "Посилання";
+
+"credit_expiry_style_title" = "Стиль завершення кредитів";
+"credit_expiry_style_list" = "Список";
+"credit_expiry_style_runway" = "Часова шкала";

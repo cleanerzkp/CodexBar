@@ -1116,3 +1116,7 @@
 "section_diagnostics" = "진단";
 "section_updates" = "업데이트";
 "section_links" = "링크";
+
+"credit_expiry_style_title" = "크레딧 만료 스타일";
+"credit_expiry_style_list" = "목록";
+"credit_expiry_style_runway" = "타임라인";

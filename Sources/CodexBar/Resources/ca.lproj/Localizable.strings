@@ -1149,3 +1149,7 @@
 "section_diagnostics" = "Diagnòstics";
 "section_updates" = "Actualitzacions";
 "section_links" = "Enllaços";
+
+"credit_expiry_style_title" = "Estil de caducitat del crèdit";
+"credit_expiry_style_list" = "Llista";
+"credit_expiry_style_runway" = "Línia de temps";

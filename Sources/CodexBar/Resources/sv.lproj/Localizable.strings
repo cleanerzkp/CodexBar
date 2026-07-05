@@ -1146,3 +1146,7 @@
 "section_diagnostics" = "Diagnostik";
 "section_updates" = "Uppdateringar";
 "section_links" = "Länkar";
+
+"credit_expiry_style_title" = "Stil för kreditutgång";
+"credit_expiry_style_list" = "Lista";
+"credit_expiry_style_runway" = "Tidslinje";

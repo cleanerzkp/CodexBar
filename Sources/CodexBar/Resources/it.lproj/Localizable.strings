@@ -1153,3 +1153,7 @@
 "section_diagnostics" = "Diagnostica";
 "section_updates" = "Aggiornamenti";
 "section_links" = "Link";
+
+"credit_expiry_style_title" = "Stile di scadenza dei crediti";
+"credit_expiry_style_list" = "Elenco";
+"credit_expiry_style_runway" = "Sequenza temporale";

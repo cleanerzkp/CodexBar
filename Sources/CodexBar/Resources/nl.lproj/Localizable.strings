@@ -1147,3 +1147,7 @@
 "section_diagnostics" = "Diagnostiek";
 "section_updates" = "Updates";
 "section_links" = "Links";
+
+"credit_expiry_style_title" = "Stijl voor verval van tegoeden";
+"credit_expiry_style_list" = "Lijst";
+"credit_expiry_style_runway" = "Tijdlijn";

@@ -1124,3 +1124,7 @@
 "section_diagnostics" = "诊断";
 "section_updates" = "更新";
 "section_links" = "链接";
+
+"credit_expiry_style_title" = "额度到期显示样式";
+"credit_expiry_style_list" = "列表";
+"credit_expiry_style_runway" = "时间线";

@@ -58,13 +58,11 @@ extension CodexResetCreditsPresentation {
             }
             .max()
         guard let horizon, horizon > 0 else { return nil }
-        let countdown = UsageFormatter.resetCountdownDescription(from: now.addingTimeInterval(horizon), now: now)
-        return countdown.hasPrefix("in ") ? String(countdown.dropFirst(3)) : countdown
+        return Self.compactExpiryText(for: now.addingTimeInterval(horizon), resetStyle: .countdown, now: now)
     }
 
     private static func runwayHoverText(for expiresAt: Date, now: Date) -> String {
-        let countdown = UsageFormatter.resetCountdownDescription(from: expiresAt, now: now)
-        let compact = countdown.hasPrefix("in ") ? String(countdown.dropFirst(3)) : countdown
+        let compact = Self.compactExpiryText(for: expiresAt, resetStyle: .countdown, now: now)
         let absolute = UsageFormatter.resetDescription(from: expiresAt, now: now)
         return compact == absolute ? compact : "\(compact) · \(absolute)"
     }

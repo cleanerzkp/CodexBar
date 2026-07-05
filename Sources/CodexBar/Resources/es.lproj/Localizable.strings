@@ -1008,3 +1008,7 @@
 "section_diagnostics" = "Diagnósticos";
 "section_updates" = "Actualizaciones";
 "section_links" = "Enlaces";
+
+"credit_expiry_style_title" = "Estilo de caducidad del crédito";
+"credit_expiry_style_list" = "Lista";
+"credit_expiry_style_runway" = "Línea de tiempo";

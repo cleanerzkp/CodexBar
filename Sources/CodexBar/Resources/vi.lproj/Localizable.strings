@@ -1148,3 +1148,7 @@
 "section_diagnostics" = "Chẩn đoán";
 "section_updates" = "Cập nhật";
 "section_links" = "Liên kết";
+
+"credit_expiry_style_title" = "Kiểu hết hạn tín dụng";
+"credit_expiry_style_list" = "Danh sách";
+"credit_expiry_style_runway" = "Dòng thời gian";

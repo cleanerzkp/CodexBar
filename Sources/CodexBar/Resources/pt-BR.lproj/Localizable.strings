@@ -1148,3 +1148,7 @@
 "section_diagnostics" = "Diagnósticos";
 "section_updates" = "Atualizações";
 "section_links" = "Links";
+
+"credit_expiry_style_title" = "Estilo de expiração de créditos";
+"credit_expiry_style_list" = "Lista";
+"credit_expiry_style_runway" = "Linha do tempo";

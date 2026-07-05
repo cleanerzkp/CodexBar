@@ -1182,3 +1182,7 @@
 "section_diagnostics" = "診斷";
 "section_updates" = "更新";
 "section_links" = "連結";
+
+"credit_expiry_style_title" = "額度到期顯示樣式";
+"credit_expiry_style_list" = "清單";
+"credit_expiry_style_runway" = "時間軸";

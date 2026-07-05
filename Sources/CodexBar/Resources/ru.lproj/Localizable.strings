@@ -1154,3 +1154,7 @@
 "section_diagnostics" = "Диагностика";
 "section_updates" = "Обновления";
 "section_links" = "Ссылки";
+
+"credit_expiry_style_title" = "Стиль истечения кредитов";
+"credit_expiry_style_list" = "Список";
+"credit_expiry_style_runway" = "Шкала времени";

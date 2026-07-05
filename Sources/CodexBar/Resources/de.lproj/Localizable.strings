@@ -1147,3 +1147,7 @@
 "section_diagnostics" = "Diagnose";
 "section_updates" = "Updates";
 "section_links" = "Links";
+
+"credit_expiry_style_title" = "Stil für Guthaben-Ablauf";
+"credit_expiry_style_list" = "Liste";
+"credit_expiry_style_runway" = "Zeitachse";

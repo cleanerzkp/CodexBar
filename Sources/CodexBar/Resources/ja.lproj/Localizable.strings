@@ -1148,3 +1148,7 @@
 "section_diagnostics" = "診断";
 "section_updates" = "アップデート";
 "section_links" = "リンク";
+
+"credit_expiry_style_title" = "クレジット有効期限の表示";
+"credit_expiry_style_list" = "リスト";
+"credit_expiry_style_runway" = "タイムライン";
